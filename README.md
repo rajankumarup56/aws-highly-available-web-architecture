@@ -10,7 +10,7 @@ The infrastructure automatically scales based on traffic, distributes incoming r
 
 ## Architecture
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ---
 
